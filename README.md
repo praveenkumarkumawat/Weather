@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# Weather App
 
 A simple and interactive weather app built with **Python** and **Streamlit**, powered by the **OpenWeatherMap API**.
 
@@ -6,42 +6,42 @@ Get real-time weather updates for any city worldwide — temperature, condition,
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌡️ Real-time temperature updates
-- 🌤️ Current weather conditions
-- 💧 Humidity and 🌬️ Wind speed
-- 📍 Supports any city worldwide
-- 🔁 Live API integration with OpenWeatherMap
-- ⚡ Built using Python and Streamlit for fast and easy deployment
-
----
-
-## 🌐 Live App
-
-👉 [Click here to open the live app](https://weather-h7mumm6nb8y4ht5pnwhk9v.streamlit.app)
+- Real-time temperature updates
+- Current weather conditions
+- Humidity and Wind speed
+- Supports any city worldwide
+- Live API integration with OpenWeatherMap
+- Built using Python and Streamlit for fast and easy deployment
 
 ---
 
-## 🛠️ Tech Stack
+## Live App
 
-- 🐍 Python 3
-- 🌐 Streamlit
-- ☁️ OpenWeatherMap API
-- 📦 Requests Library
+[Click here to open the live app](https://weather-h7mumm6nb8y4ht5pnwhk9v.streamlit.app)
 
 ---
 
-## 📸 Screenshot
+## Tech Stack
+
+- Python 3
+- Streamlit
+- OpenWeatherMap API
+- Requests Library
+
+---
+
+## Screenshot
 
 ![App Screenshot](assets/weather.png)
 
-> 💡 Tip: Add a real screenshot of your app in the `assets/` folder and update this path.
+> Tip: Add a real screenshot of your app in the `assets/` folder and update this path.
 
 ---
 ---
 
-## 🔐 API Key
+## API Key
 
 To use this app:
 
@@ -52,7 +52,7 @@ api_key = "your_api_key_here"
 
 ---
 
-## 📝 How It Works
+## How It Works
 
 - User enters a city name into the app  
 - The app sends a request to the OpenWeatherMap API  
@@ -61,13 +61,13 @@ api_key = "your_api_key_here"
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
-- 🔗 Working with third-party APIs (OpenWeatherMap)  
-- ⚙️ Fetching and parsing JSON data in Python  
-- 🧱 Building web apps with Streamlit  
-- 💡 Creating clean, minimal user interfaces  
-- 🗂️ Structuring a GitHub project professionally
+- Working with third-party APIs (OpenWeatherMap)  
+- Fetching and parsing JSON data in Python  
+- Building web apps with Streamlit  
+- Creating clean, minimal user interfaces  
+- Structuring a GitHub project professionally
 
 
 
