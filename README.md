@@ -34,28 +34,41 @@ Get real-time weather updates for any city worldwide — temperature, condition,
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/weather.png)
 
 > 💡 Tip: Add a real screenshot of your app in the `assets/` folder and update this path.
 
 ---
+---
 
-## 📦 Installation Guide
+## 🔐 API Key
 
-Follow these steps to run the project locally:
+To use this app:
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/praveenkumarkumawat/Weather-App.git
+- Get your free API key from [OpenWeatherMap](https://openweathermap.org/api)
+- Open `weather_app.py` and replace:
+```python
+api_key = "your_api_key_here"
 
-# 2. Navigate to the project directory
-cd Weather-App
+---
 
-# 3. Install the required packages
-pip install -r requirements.txt
+## 📝 How It Works
 
-# 4. Run the Streamlit app
-streamlit run weather_app.py
+- User enters a city name into the app  
+- The app sends a request to the OpenWeatherMap API  
+- The API returns real-time weather data in JSON format  
+- The app displays formatted weather information using Streamlit
+
+---
+
+## 🧠 What I Learned
+
+- 🔗 Working with third-party APIs (OpenWeatherMap)  
+- ⚙️ Fetching and parsing JSON data in Python  
+- 🧱 Building web apps with Streamlit  
+- 💡 Creating clean, minimal user interfaces  
+- 🗂️ Structuring a GitHub project professionally
+
 
 
 
