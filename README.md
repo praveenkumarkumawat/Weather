@@ -34,7 +34,7 @@ Get real-time weather updates for any city worldwide — temperature, condition,
 
 ## Screenshot
 
-![App Screenshot](assets/weather.png)
+![App Screenshot](assets/screenshot.png)
 
 > Tip: Add a real screenshot of your app in the `assets/` folder and update this path.
 
@@ -47,7 +47,7 @@ To use this app:
 
 - Get your free API key from [OpenWeatherMap](https://openweathermap.org/api)
 - Open `weather_app.py` and replace:
-```python
+  python
 api_key = "your_api_key_here"
 
 ---
