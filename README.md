@@ -34,7 +34,7 @@ Get real-time weather updates for any city worldwide — temperature, condition,
 
 ## Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](weather.png)
 
 > Tip: Add a real screenshot of your app in the `assets/` folder and update this path.
 
