@@ -35,8 +35,6 @@ Get real-time weather updates for any city worldwide — temperature, condition,
 ## Screenshot
 
 ![App Screenshot](weather.png)
-
----
 ---
 
 ## API Key
