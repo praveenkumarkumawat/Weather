@@ -13,9 +13,4 @@ A simple and interactive weather app built with Python and Streamlit, powered by
 
 👉 [Click here to open the live app](https://weather-h7mumm6nb8y4ht5pnwhk9v.streamlit.app/)
 
-## 🛠️ How to Run Locally
-
-1. Clone the repo:
-```bash
-git clone https://github.com/praveenkumarkumawat/Weather-App.git
 
