@@ -17,5 +17,5 @@ A simple and interactive weather app built with Python and Streamlit, powered by
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/Weather-App.git
+git clone https://github.com/praveenkumarkumawat/Weather-App.git
 
